@@ -1,1 +1,0 @@
-This project is about implementing a figma design from scratch using HTML,CSS and JavaScript.
