@@ -465,7 +465,7 @@ button:active {
 }
 
 /*Include Animations*/
-/* Animation: subtle bounce and scale */
+/* Add bounce and scale animation on hover */
 @keyframes bounceScale {
   0%, 100% {
     transform: translateY(0) scale(1);
